@@ -1,5 +1,5 @@
-var name = "Joe";
-var height = "74";
+var name = "Susan";
+var height = "7";
 
 
 // Don't worry about this
